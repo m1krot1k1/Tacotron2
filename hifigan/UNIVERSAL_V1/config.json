@@ -41,5 +41,5 @@
 
   "gen_loss_mel_weight": 45,
   "gen_loss_fm_weight": 2,
-  "gen_loss_gen_weight": 1 
+  "gen_loss_gen_weight": 1
 }
